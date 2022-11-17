@@ -5,7 +5,7 @@
 User field taking phone number without given an error message.
 
 
-<img width="952" alt="Screenshot 2022-11-17 190609" src="https://user-images.githubusercontent.com/32101980/202462615-49f611f3-629c-4135-818b-6d8ba5b7c3e8.png"
+<img width="952" alt="Screenshot 2022-11-17 190609" src="https://user-images.githubusercontent.com/32101980/202462615-49f611f3-629c-4135-818b-6d8ba5b7c3e8.png">
 
 
 
